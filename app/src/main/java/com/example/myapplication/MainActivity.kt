@@ -88,31 +88,26 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
         Log.d(TAG, "The activity is in onStart state")
-        Toast.makeText(applicationContext, "The activity is in onState state", Toast.LENGTH_SHORT).show()
     }
 
     override fun onResume() {
         super.onResume()
         Log.d(TAG, "The activity is in onResume state")
-        Toast.makeText(applicationContext, "The activity is in onResume state", Toast.LENGTH_SHORT).show()
     }
 
     override fun onStop() {
         super.onStop()
         Log.d(TAG, "The activity is in onStop state")
-        Toast.makeText(applicationContext, "The activity is in onStop state", Toast.LENGTH_SHORT).show()
     }
 
     override fun onPause() {
         super.onPause()
         Log.d(TAG, "The activity is in onPause state")
-        Toast.makeText(applicationContext, "The activity is in onPause state", Toast.LENGTH_SHORT).show()
     }
 
     override fun onRestart() {
         super.onRestart()
         Log.d(TAG, "The activity is in onRestart state")
-        Toast.makeText(applicationContext, "The activity is in onRestart state", Toast.LENGTH_SHORT).show()
     }
 
 }
