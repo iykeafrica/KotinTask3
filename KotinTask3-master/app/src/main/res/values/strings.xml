@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="key_name"><u><b>About </b></u></string>
+    <string name="second_text">Great enthusiast for Java, Kotlin and Flutter.\nFriendly and conversational.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</string>
+    <string name="login_sign_up">Logout</string>
+    <string name="sign_up"><b><u>SIGN UP</u></b></string>
+    <string name="forgot_password"><b><u>Forgot password?</u></b></string>
+    <string name="logout">Logout</string>
+    <string name="test">About</string>
+</resources>
